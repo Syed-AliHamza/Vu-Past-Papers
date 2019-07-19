@@ -637,12 +637,12 @@
                 </div>
               </div>
             </div>
-            <div class="col-sm-12 col-md-6 pl-0 pl-sm-15 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2" style="white-space: nowrap;">
+            <div class="col-sm-12 col-md-6 pl-0 pl-sm-15 pr-sm-15 height-auto mt-sm-0 wow fadeInLeft animation-delay2">
               <div class="sm-height-auto" data-bg-img="images/about/h2.jpg">
                 <div class="p-20">
                   <h3 class="text-white text-uppercase">Want To Get All Final-term Past Papers?</h3>
                   <p class="lead text-white-f1">Just click the button below!</p>
-                  <ul class="pull-left flip hidden-sm hidden-xs">
+                  <ul class="">
                     <li>
                       <!-- Modal: Book Now Starts -->
                       <a href="moaz-final-term.html" class="btn btn-default font-14 btn-theme-colored mt-10 hvr-bounce-to-left no-border">Get Papers Now</a>
@@ -678,14 +678,14 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p1.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>$500</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>CS-001</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                   <a href="#" class="btn btn-primary">Downlooad</a>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">CS001</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                   <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
               </div>
@@ -694,18 +694,14 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p2.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>CS</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>MCM-304</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">CS-101</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                    <ul class="list-inline project-conditions text-center m-0 p-10">
-                      <li class="current-fund"><strong>Time</strong> June 26</li>
-                      <li class="target-fund"><strong>Discount</strong>15%</li>
-                      <li class="remaining-days"><strong>Duration</strong>6 Months</li>
-                    </ul>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">CS-101</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">CS101</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                    <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
               </div>
@@ -714,18 +710,14 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p3.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>$500</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>MGT-111</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                    <ul class="list-inline project-conditions text-center m-0 p-10">
-                      <li class="current-fund"><strong>Time</strong> June 26</li>
-                      <li class="target-fund"><strong>Discount</strong>15%</li>
-                      <li class="remaining-days"><strong>Duration</strong>6 Months</li>
-                    </ul>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">CS-101</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">MGT-111</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                    <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
               </div>
@@ -734,18 +726,14 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p4.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>$500</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>MTH-202</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                    <ul class="list-inline project-conditions text-center m-0 p-10">
-                      <li class="current-fund"><strong>Time</strong> June 26</li>
-                      <li class="target-fund"><strong>Discount</strong>15%</li>
-                      <li class="remaining-days"><strong>Duration</strong>6 Months</li>
-                    </ul>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">CS-101</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">MTH-201</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                    <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
               </div>
@@ -754,18 +742,14 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p5.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>$500</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>MTH-601</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                    <ul class="list-inline project-conditions text-center m-0 p-10">
-                      <li class="current-fund"><strong>Time</strong> June 26</li>
-                      <li class="target-fund"><strong>Discount</strong>15%</li>
-                      <li class="remaining-days"><strong>Duration</strong>6 Months</li>
-                    </ul>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">CS-101</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">MTH-601</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                    <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
               </div>
@@ -774,20 +758,18 @@
                   <div class="thumb">
                     <img class="img-fullwidth" alt="" src="images/project/p6.jpg">
                     <div class="hover-link">
-                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>$500</span> </a>
+                      <a class="btn btn-flat btn-dark btn-theme-colored btn-md pull-left font-20" href="#"><span>MCM-304</span> </a>
                     </div>
                   </div>
                   <div class="project-details p-15 pt-10 pb-10">
-                    <h5 class="font-14 font-weight-500 mb-5">Subtitle place here</h5>
-                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="page-courses-accounting-technologies.html">Course Title Here</a></h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p>
-                    <ul class="list-inline project-conditions text-center m-0 p-10">
-                      <li class="current-fund"><strong>Time</strong> June 26</li>
-                      <li class="target-fund"><strong>Discount</strong>15%</li>
-                      <li class="remaining-days"><strong>Duration</strong>6 Months</li>
-                    </ul>
+                    <!-- <h5 class="font-14 font-weight-500 mb-5">MCM-304</h5> -->
+                    <h4 class="font-weight-700 text-uppercase mt-0"><a href="#">MCM-304</a></h4>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam interdum diam tortor, egestas varius erat aliquam. </p> -->
+                    <a href="#" class="btn btn-primary">Download</a>
                   </div>
                 </div>
+              </div>
+              
               </div>
             </div>
           </div>
@@ -831,7 +813,7 @@
     <section id="mission">
       <div class="container-fluid pt-0 pb-0">
         <div class="row equal-height">
-          <div class="col-sm-6 col-md-6 pull-right xs-pull-none bg-theme-colored wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
+          <div class=" col-md-6 pull-right xs-pull-none bg-theme-colored wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
             <div class="pt-60 pb-40 pl-90 pr-160 p-md-30">
               <h2 class="title text-white text-uppercase line-bottom mt-0 mb-30">Contact Us</h2>
               <div class="icon-box clearfix m-0 p-0 pb-10">
