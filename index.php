@@ -880,71 +880,7 @@
       <div class="container pt-40 pb-50">
         <div class="section-content">
           <div class="row">
-            <div class="col-md-5 wow fadeInRight pr-40" data-wow-duration="1s" data-wow-delay="0.3s">
-             
-              <div class="bxslider bx-nav-top">
-                <div class="testimonial bg-theme-colored border-radius-10px p-20 mb-15">
-                  <div class="comment">
-                   <p class="text-white"><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/1.jpg" alt="" class="img-circle">
-                    </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      <ul class="review_text list-inline">
-                        <li>
-                          <div class="star-rating" title="Rated 4.50 out of 5"><span data-width="90%">4.50</span></div>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-                <div class="testimonial bg-theme-colored border-radius-10px p-20 mb-15">
-                  <div class="comment">
-                   <p class="text-white"><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/2.jpg" alt="" class="img-circle">
-                    </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      <ul class="review_text list-inline">
-                        <li>
-                          <div class="star-rating" title="Rated 4.50 out of 5"><span data-width="90%">4.50</span></div>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-                <div class="testimonial bg-theme-colored border-radius-10px p-20 mb-15">
-                  <div class="comment">
-                   <p class="text-white"><em>Lorem ipsum dolor sit ametconse ctetur adipisicing elitvolup tatem error sit qui.</em></p>
-                  </div>
-                  <div class="content mt-20">
-                    <div class="thumb pull-left flip">
-                      <img width="64" src="images/testimonials/3.jpg" alt="" class="img-circle">
-                    </div>
-                    <div class="testimonials-details pull-left flip ml-20">
-                      <h5 class="author text-theme-color-2 mt-0 mb-0 font-weight-600">Jonathan Smith</h5>
-                      <h6 class="title font-14 m-0 mt-5 mb-5 text-gray-darkgray">cici inc.</h6>
-                      <ul class="review_text list-inline">
-                        <li>
-                          <div class="star-rating" title="Rated 4.50 out of 5"><span data-width="90%">4.50</span></div>
-                        </li>
-                      </ul>
-                    </div>
-                    <div class="clearfix"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            
             <div class="col-md-7 hidden-xs pl-40">
               <h3 class="line-bottom mt-20 line-height-1"><span class="text-theme-color-2">FAQ</span></h3>
               <div id="accordion1" class="panel-group accordion">
@@ -997,6 +933,26 @@
                   </div>
                 </div>
               </div>
+            </div>
+            <div class="col-md-3 offset-md-2 wow fadeInRight pr-40" data-wow-duration="1s" data-wow-delay="0.3s">
+             
+                <div class="box1">
+                  <div class="">
+                    <img src="./img/3.jpeg" alt="" class="thumbnail-img">
+                    <h3 class="title">Syed Ali Hamza</h3>
+                    <ul class="icon">
+                        <li><a href="#"><i class="fa fa-search"></i></a></li>
+                        <li><a href="#"><i class="fa fa-link"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+                <p style="margin-top:20px;">
+                    I am Hamza, I am certified Front End Developer and React Js developer with 2 years of experience.
+ 
+                    I am an expert Front End web developer . Modern Tools and Latest Software enable me to provide you best results.
+                    
+                </p>
+
             </div>
           </div>
         </div>
