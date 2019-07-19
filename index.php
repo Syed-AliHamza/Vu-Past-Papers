@@ -849,7 +849,7 @@
                 </a>
                 <div class="ml-120 ml-sm-0">
                   <h4 class="icon-box-title text-white mt-5 mb-10 letter-space-1">Visit Our Facebook Page</h4>
-                  <p class="text-white">If you want to contact us on facebook then here is our facebook page <a href="">link</a> you can tell us about your queries.</p>
+                  <p class="text-white">If you want to contact us on facebook then here is our facebook page <a href="https://www.facebook.com/VU-Past-Papers-625236331331904/">link</a> you can tell us about your queries.</p>
                 </div>
               </div>
               <div class="icon-box clearfix m-0 p-0 pb-10">
@@ -858,7 +858,7 @@
                 </a>
                 <div class="ml-120 ml-sm-0">
                   <h4 class="icon-box-title text-white mt-5 mb-10 letter-space-1">Visit Our Youtube Channel</h4>
-                  <p class="text-white"> If you want to learn how to design a web page and also want to learn awesome tricks of css3 and html just <a href=""> Click here!</a></p>
+                  <p class="text-white"> If you want to learn how to design a web page and also want to learn awesome tricks of css3 and html just <a href="https://www.youtube.com/channel/UC8e2AGVVox_6CtAQhRqsyJw?guided_help_flow=3"> Click here!</a></p>
                 </div>
               </div>
             </div>
@@ -881,7 +881,7 @@
         <div class="section-content">
           <div class="row">
             <div class="col-md-5 wow fadeInRight pr-40" data-wow-duration="1s" data-wow-delay="0.3s">
-              <h3 class="text-uppercase title line-bottom">What <span class="text-theme-color-2 font-weight-700">Clients Say ?</span></h3>
+             
               <div class="bxslider bx-nav-top">
                 <div class="testimonial bg-theme-colored border-radius-10px p-20 mb-15">
                   <div class="comment">
