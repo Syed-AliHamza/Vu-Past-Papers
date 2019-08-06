@@ -15,8 +15,8 @@
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="LearnPress | Education & Courses HTML Template" />
-<meta name="keywords" content="academy, course, education, education html theme, #, learning," />
+<meta name="description" content="VU Past Papers | All VU Solutions And Past Papers Are Available Here" />
+<meta name="keywords" content="" />
 
 
 <!-- Page Title -->
