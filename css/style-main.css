@@ -86,6 +86,10 @@ This file contains the common styles of this theme.
  * -----------------------------------------------
 */
 
+.paper-content img{
+  height: 300px;
+  margin-bottom: 20px;
+}
 
 .tg-description {
 	width: 100%;
